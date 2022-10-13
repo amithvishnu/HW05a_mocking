@@ -3,6 +3,6 @@
 
 SSW567 
 HW05a
-GitHubAPI
+GitHubAPI.
 
 This script quieries GitHub API for user repository information.
